@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# App config (user-specific)
+config.json
+
+# Build / packaging
+build/
+dist/
+*.spec
+
+# OS junk
+.DS_Store
+Thumbs.db
