@@ -28,6 +28,12 @@ This is a custom autoclicker I built in just a few hours for fun—and to show t
 
 
 
+## Disclaimer
+This software is provided for educational purposes only.
+
+
+
+
 \## Run
 
 ```bash
