@@ -32,6 +32,11 @@ This is a custom autoclicker I built in just a few hours for fun—and to show t
 This software is provided for educational purposes only.
 
 
+## Artwork
+
+The application icon artwork are original and © 2026 qrkyi.
+They are included in this repository under the MIT License.
+
 
 
 \## Run
